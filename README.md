@@ -93,5 +93,6 @@ Ela deve exibir em tempo real as seguintes informações:
 - Utilizar workers ou fila para processar o CSV em background
 
 Envie o link do repositório para o email gustavo@codental.com.br com o assunto "Desafio Técnico <seu nome>"
+O prazo para entrega é 7 dias.
 
 Boa sorte! Estamos ansiosos para avaliar o seu trabalho. 💻
